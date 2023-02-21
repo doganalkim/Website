@@ -1,0 +1,22 @@
+#navbar{
+    flex-direction: column;
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+    overflow: hidden;
+    
+}
+
+#about .items{
+    flex-direction: column;
+    overflow: hidden;
+    padding-top: 1rem;
+}
+
+#about .items .item{
+    width: 100%;
+}
+
+.teams .team{
+    display: flex;
+    flex-direction: column;
+}
